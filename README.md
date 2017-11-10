@@ -1,1 +1,3 @@
-# zforcing_nips17
+Repository for the paper ''ZForcing: Training Stochastic Recurrent Networks''
+
+Also, Refer to  https://github.com/sordonia/zforcing
